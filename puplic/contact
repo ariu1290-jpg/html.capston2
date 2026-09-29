@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>contact</title>
+    </head>
+    <body>
+        <h1>Cantact Me</h1>
+        <hr />
+        <p>Tel: @diamond113_0</p>
+        <p>Gmail: ariu1290@gmail.com </p>
+        <h2><a href="https://github.com/">GitHub</a></h2>
+    </body>
+ </html>

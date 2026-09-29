@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>about me</title>
+    </head>
+    <body>
+        <h1>About Me</h1>
+        <hr />
+        <p>
+            Hi, my name is Ario, and I’m from Persia. I’ve been interested in coding for a few years now and am currently taking
+            courses. I’m really eager to advance in my work and keep learning. I love sports; I’m studying Sports Science and hold a
+            high school diploma in the Experimental Sciences stream. I started taking this seriously a few months ago—and I’m
+            generally a serious person when it comes to my work (though that applies specifically to my work, not necessarily other
+            areas of life). I’m going to amaze you with the websites I build. Love you all!
+        </p>
+        <a href="./contact">Contact</a>
+
+
+
+  
+
+
+    </body>
+</html>
